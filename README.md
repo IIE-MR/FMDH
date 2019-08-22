@@ -92,3 +92,5 @@ optional arguments:
         <td >MSCOCO</td ><td >1.530  </td> <td >1.697 </td><td > 1.708</td>
     </tr>
 </table>
+
+## This code originates from https://github.com/jiangqy/ADSH-AAAI2018/tree/master/ADSH_pytorch
